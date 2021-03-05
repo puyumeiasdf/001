@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+    <!-- Default Suite -->
+    <test name="001" thread-count="5">
+        <classes>
+            <class name="OpenBaidu">
+                <methods>
+                    <include name="Open"/>
+                </methods>
+            </class>
+            <!-- OpenBaidu -->
+        </classes>
+    </test>
+    <!-- 001 -->
+</suite>
