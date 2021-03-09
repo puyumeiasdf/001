@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default Suite" duration-ms="18640" started-at="2021-03-03T15:46:16Z" finished-at="2021-03-03T15:46:35Z">
+  <suite name="Default Suite" duration-ms="16459" started-at="2021-03-06T05:39:44Z" finished-at="2021-03-06T05:40:01Z">
     <groups>
     </groups>
-    <test name="001" duration-ms="18640" started-at="2021-03-03T15:46:16Z" finished-at="2021-03-03T15:46:35Z">
+    <test name="001" duration-ms="16459" started-at="2021-03-06T05:39:44Z" finished-at="2021-03-06T05:40:01Z">
       <class name="OpenBaidu">
-        <test-method status="PASS" signature="Open()[pri:0, instance:OpenBaidu@dfd3711]" name="Open" duration-ms="18611" started-at="2021-03-03T23:46:16Z" finished-at="2021-03-03T23:46:35Z">
+        <test-method status="PASS" signature="Open()[pri:0, instance:OpenBaidu@dfd3711]" name="Open" duration-ms="16419" started-at="2021-03-06T13:39:44Z" finished-at="2021-03-06T13:40:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Open -->
